@@ -50,6 +50,7 @@ ket : ✅ : aktif
 
 ## THANKS TO
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
+* REUZ
 
 ## DONASI
-* Gopay : 081271699856 Reuz
+* DANA : 085158557646
