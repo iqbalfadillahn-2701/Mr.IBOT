@@ -18,6 +18,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > apt update && apt upgrade
 > git clone https://github.com/iqbalfadillahn-2701/Mr.IBOT
 > cd Mr.IBOT
+> npm i -g cwebp && npm i -g ytdl
+> npm i && npm i got
 > bash install.sh
 > node index.js
 ```
